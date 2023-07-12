@@ -1,8 +1,6 @@
 ### Hi i'm Victor Hugo ✌😎
 
-- 📓 I’m currently studing Front-End!
-- 👨‍💻 I’m learnig JS and NodeJS right now!
-- 😎 Pronouns: ele/dele | He/Him
+- 👨‍💻 I'm Front-End Developer
 
 <div align="center">
   <a href="https://github.com/svictorhugop">
